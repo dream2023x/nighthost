@@ -1,0 +1,22 @@
+{
+  "name": "nighthost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dream2023x/nighthost.git"
+  },
+  "keywords": [
+    "nighthost"
+  ],
+  "author": "Dream (7t9.)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dream2023x/nighthost/issues"
+  },
+  "homepage": "https://github.com/dream2023x/nighthost#readme"
+}
